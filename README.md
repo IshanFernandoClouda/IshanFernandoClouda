@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-🔥 **IshanFernando18098**
-   - [Visit my other github account ishanfdo19098](https://github.com/ishanfdo18098)
+- [Visit my other github account ishanfdo19098](https://github.com/ishanfdo18098)
 <!--
 **IshanFernandoClouda/IshanFernandoClouda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
